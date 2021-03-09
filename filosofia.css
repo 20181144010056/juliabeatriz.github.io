@@ -1,0 +1,21 @@
+body{
+    background-image: url(../Imagens/error.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size:cover;
+}
+h2{
+    color: rgb(88, 0, 129);
+    font-size: 18pt;
+    font-family: Times;
+    text-align: center;
+}
+p{
+    color: rgb(82, 0, 114);
+    font-size: 15pt;
+    font-family: Times;
+    text-align: center;
+}
+a{
+    color: rgb(5, 5, 5);
+}
